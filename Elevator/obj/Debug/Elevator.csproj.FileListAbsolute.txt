@@ -1,0 +1,6 @@
+c:\users\hrant\documents\visual studio 2015\Projects\Elevator\Elevator\bin\Debug\Elevator.exe.config
+c:\users\hrant\documents\visual studio 2015\Projects\Elevator\Elevator\bin\Debug\Elevator.exe
+c:\users\hrant\documents\visual studio 2015\Projects\Elevator\Elevator\bin\Debug\Elevator.pdb
+c:\users\hrant\documents\visual studio 2015\Projects\Elevator\Elevator\obj\Debug\Elevator.csprojResolveAssemblyReference.cache
+c:\users\hrant\documents\visual studio 2015\Projects\Elevator\Elevator\obj\Debug\Elevator.exe
+c:\users\hrant\documents\visual studio 2015\Projects\Elevator\Elevator\obj\Debug\Elevator.pdb
